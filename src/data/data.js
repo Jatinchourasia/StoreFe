@@ -7,7 +7,7 @@ let data = {
       description:
         '\u003cspan style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"\u003eWith over 20 varieties of Aglaonema that are grown as houseplants, you will be spoilt for choice. They range in colour from beautiful fresh greens to variegated silvers and stunningly rich dark pinks.\u003c/span\u003e',
       published_at: "2022-11-07T14:09:35+05:30",
-      updated_at: "2023-04-25T12:45:13+05:30",
+      updated_at: "2023-04-26T00:07:20+05:30",
       image: {
         id: 1609191784580,
         created_at: "2022-12-08T12:06:48+05:30",
@@ -33,7 +33,7 @@ let data = {
       handle: "air-purifying-plant-bundles",
       description: "",
       published_at: "2022-08-23T17:44:11+05:30",
-      updated_at: "2023-04-25T12:59:19+05:30",
+      updated_at: "2023-04-25T22:39:23+05:30",
       image: null,
       products_count: 8,
     },
@@ -44,7 +44,7 @@ let data = {
       description:
         '\u003cp\u003e\u003cspan style="font-weight: 400;"\u003eAir purifying plants remove more than 50% of indoor air pollutants over time allowing your family to breathe fresher cleaner air to lead a healthy life. Ugaoo has the widest range of air purifier plants. Some of our air purifying \u003ca href="https://www.ugaoo.com/collections/indoor-plants"\u003eindoor plants\u003c/a\u003e or as they are popularly called, air purifier plants indoor, even clean air at night. Explore our complete range of air purifier plants for home.\u003c/span\u003e\u003c/p\u003e\n\u003cbr\u003e',
       published_at: "2022-08-23T17:37:57+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: {
         id: 1608152973444,
         created_at: "2022-09-06T20:09:10+05:30",
@@ -60,7 +60,7 @@ let data = {
       description:
         '\u003cp style="display:none;"\u003eAll Plant bundles\u003c/p\u003e',
       published_at: "2022-08-23T17:44:07+05:30",
-      updated_at: "2023-04-25T12:59:23+05:30",
+      updated_at: "2023-04-25T22:39:31+05:30",
       image: {
         id: 1609724428420,
         created_at: "2023-04-05T11:17:03+05:30",
@@ -76,7 +76,7 @@ let data = {
       description:
         "Aloe Vera is a versatile plant that has been used for thousands of years for its medicinal and healing properties.",
       published_at: "2023-02-22T18:14:11+05:30",
-      updated_at: "2023-04-25T13:00:21+05:30",
+      updated_at: "2023-04-26T00:07:23+05:30",
       image: {
         id: 1609698541700,
         created_at: "2023-03-25T17:11:18+05:30",
@@ -92,7 +92,7 @@ let data = {
       description:
         "Animal planters are a cute addition to a garden both indoors and outdoors. They break the monotony of traditional pots and planters and add eye-catching beauty to the garden. ",
       published_at: "2022-08-23T17:39:02+05:30",
-      updated_at: "2023-04-25T12:59:25+05:30",
+      updated_at: "2023-04-25T22:39:32+05:30",
       image: null,
       products_count: 3,
     },
@@ -103,7 +103,7 @@ let data = {
       description:
         '\u003cp data-mce-fragment="1"\u003e\u003cspan style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"\u003eThe anthurium has one of the longest-lasting flowers on earth and it blooms for more than 250 days, so this means your anthurium will fill your indoor garden with colourful blooms for most of the year making them the perfect indoor flowering plants. An anthurium bloom lasts for 2-3 months on the stem and slowly loses all colour to fade away.\u003c/span\u003e\u003c/p\u003e',
       published_at: "2022-11-07T14:09:19+05:30",
-      updated_at: "2023-04-24T22:30:38+05:30",
+      updated_at: "2023-04-26T00:07:27+05:30",
       image: {
         id: 1609191882884,
         created_at: "2022-12-08T12:08:40+05:30",
@@ -140,7 +140,7 @@ let data = {
       description:
         '\u003cp\u003e\u003cspan style="font-weight: 400;"\u003eToday Areca palm (Dypsis lutescens) is one of the most loved palm in the home gardening circle globally. Very well suited for bright interiors, these easy to care for plants become the centre of attention in no time with their feathery fronds that sway gently in the breeze and remind you of your best tropical vacation.\u003c/span\u003e\u003c/p\u003e\n\u003cp style="display: none;"\u003eAreca Palm\u003c/p\u003e',
       published_at: "2022-11-07T14:08:31+05:30",
-      updated_at: "2023-04-25T14:00:15+05:30",
+      updated_at: "2023-04-26T00:07:34+05:30",
       image: {
         id: 1609144533124,
         created_at: "2022-12-06T18:33:17+05:30",
@@ -167,7 +167,7 @@ let data = {
       description:
         '\u003cp\u003e\u003cspan style="font-weight: 400;"\u003eBalconies are a luxury in urban homes and using balcony plants to turn them into your personal oasis is the best possible decor mantra. Some of the best plants for balcony are the easiest to care for and Ugaoo also has an extensive range of \u003ca href="https://www.ugaoo.com/collections/flowering-plants"\u003eflower plants\u003c/a\u003e for balcony that add the right colour to your home. Explore our range of outdoor plants for balcony and buy balcony plants online.\u003c/span\u003e\u003c/p\u003e',
       published_at: "2022-08-23T17:43:56+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: {
         id: 1608153006212,
         created_at: "2022-09-06T20:10:26+05:30",
@@ -183,7 +183,7 @@ let data = {
       description:
         '\u003cp\u003e\u003cspan style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"\u003eIt\u2019s clear why most, if not all, of us, bring home the feng shui bamboo plant or lucky bamboo plant. It\u2019s right there in the name! We all want to invite more prosperity and success into our lives, and that\u2019s what the lucky bamboo, or Dracaena sanderiana, is said to do.\u003c/span\u003e\u003cspan style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"\u003eHowever, it\u2019s equally important to take care of this unique good luck plant once it becomes a part of your home garden.\u003c/span\u003e\u003c/p\u003e\n\u003cp style="display: none;"\u003e\u003cspan style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"\u003eIt\u2019s clear why most, if not all, of us, bring home the feng shui bamboo plant or lucky bamboo plant. It\u2019s right there in the name! We all want to invite more prosperity and success into our lives, and that\u2019s what the lucky bamboo, or Dracaena sanderiana, is said to do.It\u2019s clear why most, if not all, of us, bring home the feng shui bamboo plant or lucky bamboo plant. It\u2019s right there in the name! We all want to invite more prosperity and success into our lives, and that\u2019s what the lucky bamboo, or Dracaena sanderiana, is said to do.It\u2019s clear why most, if not all, of us, bring home the feng shui bamboo plant or lucky bamboo plant. It\u2019s right there in the name! We all want to invite more prosperity and success into our lives, and that\u2019s what the lucky bamboo, or Dracaena sanderiana, is said to do.It\u2019s clear why most, if not all, of us, bring home the feng shui bamboo plant or lucky bamboo plant. It\u2019s right there in the name! We all want to invite more prosperity and success into our lives, and that\u2019s what the lucky bamboo, or Dracaena sanderiana, is said to do.\u003c/span\u003e\u003cspan style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"\u003eIt\u2019s clear why most, if not all, of us, bring home the feng shui bamboo plant or lucky bamboo plant. It\u2019s right there in the name! We all want to invite more prosperity and success into our lives, and that\u2019s what the lucky bamboo, or Dracaena sanderiana, is said to do.\u003c/span\u003eBamboo plant (Lucky Bamboo)\u003c/p\u003e',
       published_at: "2022-11-07T14:08:10+05:30",
-      updated_at: "2023-04-25T14:40:19+05:30",
+      updated_at: "2023-04-26T00:09:36+05:30",
       image: {
         id: 1609144467588,
         created_at: "2022-12-06T18:30:36+05:30",
@@ -224,7 +224,7 @@ let data = {
       handle: "bathroom",
       description: "",
       published_at: "2022-08-23T17:44:02+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: null,
       products_count: 74,
     },
@@ -246,7 +246,7 @@ let data = {
       description:
         '\u003cp\u003e\u003cspan style="font-weight: 400;"\u003eIndoor plants for bedroom not only improve the air quality but also help you sleep better through the night. The \u003ca href="https://www.ugaoo.com/collections/air-purifying-plants"\u003eair purifying plants \u003c/a\u003efor bedroom work through the night while you sleep to help you get up fresher and more energetic, Ugaoo has a wide range of \u003ca href="https://www.ugaoo.com/collections/indoor-plants"\u003eindoor plants online\u003c/a\u003e to help you select the best plant for bedroom oxygen.\u003c/span\u003e\u003c/p\u003e',
       published_at: "2022-08-23T17:43:52+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: {
         id: 1608153038980,
         created_at: "2022-09-06T20:11:10+05:30",
@@ -273,7 +273,7 @@ let data = {
       description:
         '\u003cspan style="font-weight: 400;"\u003eWith time Hyderabad has found a new identity as Cyberabad - a bustling new age tech city teeming with a working population who are craving green spaces in their daily life. To create your own indoor garden you can buy all kinds of plants online in Hyderabad. \u003ca href="https://www.ugaoo.com/collections/indoor-plants"\u003eIndoor plants \u003c/a\u003ein Hyderabad are the best option to create your own home garden, given the harsh summers in the city.\u003c/span\u003e',
       published_at: "2022-08-23T17:46:03+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:30:25+05:30",
       image: {
         id: 1609697853572,
         created_at: "2023-03-25T00:51:41+05:30",
@@ -323,7 +323,7 @@ let data = {
       handle: "blank-canvas",
       description: "",
       published_at: "2022-08-23T17:43:11+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: null,
       products_count: 104,
     },
@@ -333,7 +333,7 @@ let data = {
       handle: "bohemian",
       description: "",
       published_at: "2022-08-23T17:43:18+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: null,
       products_count: 144,
     },
@@ -354,7 +354,7 @@ let data = {
       handle: "boosting-creativity",
       description: "",
       published_at: "2022-08-23T17:42:44+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: null,
       products_count: 128,
     },
@@ -364,7 +364,7 @@ let data = {
       handle: "bright-spot",
       description: "",
       published_at: "2022-08-23T17:43:01+05:30",
-      updated_at: "2023-04-25T15:00:14+05:30",
+      updated_at: "2023-04-26T00:55:32+05:30",
       image: null,
       products_count: 125,
     },

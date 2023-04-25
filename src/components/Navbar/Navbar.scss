@@ -1,0 +1,38 @@
+.nav {
+  height: 80px;
+
+  .wrapper {
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .left {
+      display: flex;
+      align-items: center;
+      gap: 25px;
+    }
+    .title {
+      font-size: 30px;
+      letter-spacing: 2px;
+    }
+    .right {
+      display: flex;
+      align-items: center;
+      gap: 25px;
+    }
+
+    .user {
+      background-color: rgb(99, 99, 99);
+      height: 30px;
+      width: 30px;
+      border-radius: 50%;
+    }
+    .cart {
+      background-color: rgb(99, 99, 99);
+      height: 30px;
+      width: 30px;
+      border-radius: 50%;
+    }
+  }
+}
